@@ -1,0 +1,221 @@
+.header
+{
+    height: 18%;
+    width: 100%;
+    background-image: url("../images/bg-header-desktop.png");
+   
+}
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 7%;
+    text-align:center;
+    width: 4%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 2%;
+      
+}
+.text
+{
+    text-align: justify;
+    font-family: Bai Jamjuree;
+    margin-top: -1%;
+     width: 50%;
+    margin: auto;  
+    font-size: 18px;
+    
+}
+h1{
+    letter-spacing: 1px;
+}
+.ios
+{
+        border: none;
+        color: white;
+        padding: 8px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        background-color: hsl(171, 66%, 44%);
+        border-radius: 20px;
+        font-family: Bai Jamjuree;
+
+}
+
+.mac
+{
+        border: none;
+        color: white;
+        padding: 8px 28px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        background-color:hsl(233, 100%, 69%);
+        border-radius: 20px;
+        font-family: Bai Jamjuree;
+
+}
+.button
+{
+    width: 40%;
+    height: 5%;
+    margin: auto;
+    margin-left: 35%;
+}
+.track
+{
+    text-align: justify;
+    font-family: Bai Jamjuree;
+    width: 50%;
+    margin: auto;  
+
+}
+.keep
+{
+    margin-left: 20%;
+    font-size: 18px;
+}
+.screen
+{
+width: 55%;
+margin-left: -6%;
+white-space: nowrap;
+}
+.outerofScreen
+{
+    width: 40%;
+    height: 45%;
+    margin: auto;
+    margin-left: 50%;
+    margin-top: -37%;
+   
+}
+.quick
+{
+    margin-left: 10%;
+}
+h2{
+    font-family: Bai Jamjuree;
+    font-weight: 400;
+    font-size: 24px;
+}
+h3{
+    font-family: Bai Jamjuree;
+    font-size: 18px;
+    font-weight: 300;
+}
+h4{
+    font-weight: 400;
+}
+.last
+{
+    margin: auto;
+    margin-left: 8%;
+    margin-top: 10%;
+    
+}
+
+@media screen and (max-width: 375px) {
+ 
+.outerofScreen{
+    margin-top: 0px;
+}
+    .last
+    {
+        margin-top: -20%;
+
+    }
+    .lastimage
+    {
+        margin-top: -30cm;
+    }
+
+}
+
+.textsuper
+{
+    text-align: justify;
+    font-family: Bai Jamjuree;
+    margin-top: -1%;
+     width: 50%;
+    margin: auto;  
+    font-size: 18px;
+    
+}
+.contain
+{
+    width: 98%;
+    height: 20%;
+    margin-left: 1%;
+
+}
+.logoblack
+{
+    height: 100%;
+    margin-left: 30%;
+}
+.createBlacklist
+{
+    width: 14%;
+    height: 50%;
+    font-size: 18px;
+    font-family: Bai Jamjuree;
+    margin-left: 3%;
+}
+.plaintext
+{
+    width: 30%;
+    height: 80%;
+    margin-left: 30%;
+    margin-top: -5%;
+    font-size: 18px;
+  position: static;
+  font-family: Bai Jamjuree;
+}
+.sneakpreview
+{
+    margin-top: -8%;
+    margin-left: 60%;
+    font-family: Bai Jamjuree;
+    font-size: 18px;
+
+}
+.google
+{
+    float: left;
+    margin-left: 6%;
+}
+.ibm
+{
+    float: left;
+    margin-left: 8%;
+}
+.microsoft
+{
+    float: left;
+    margin-left: 8%;
+}
+.hp
+{
+    float: left;
+    margin-left: 8%;
+}
+.vector
+{
+    float: left;
+    margin-left: 8%;
+
+}
