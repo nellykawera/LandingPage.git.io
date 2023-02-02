@@ -10,13 +10,13 @@
     margin-left: auto;
     margin-right: auto;
     height: auto;
-    width: 7%;
+    width: 9%;
     text-align: center;
-    width: 4%;
+    width: 7%;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding-top: 2%;
+    padding-top: 3%;
 
 }
 
@@ -89,14 +89,14 @@ h1 {
 }
 
 .screen {
-    width: 55%;
+    width: 40%;
     margin-left: -6%;
     white-space: nowrap;
 }
 
 .outerofScreen {
-    width: 40%;
-    height: 45%;
+    width: 30%;
+    height: 35%;
     margin: auto;
     margin-left: 50%;
     margin-top: -37%;
@@ -126,14 +126,14 @@ h4 {
 .last {
     margin: auto;
     margin-left: 8%;
-    margin-top: 10%;
+    margin-top: 8%;
 
 }
 
 @media screen and (max-width: 375px) {
 
     .outerofScreen {
-        margin-top: 0px;
+        margin-top: -2px;
     }
 
     .last {
@@ -142,7 +142,7 @@ h4 {
     }
 
     .lastimage {
-        margin-top: -30cm;
+        margin-top: -35cm;
     }
 
 }
@@ -159,7 +159,7 @@ h4 {
 
 .contain {
     width: 98%;
-    height: 20%;
+    height: 15%;
     margin-left: 1%;
 
 }
